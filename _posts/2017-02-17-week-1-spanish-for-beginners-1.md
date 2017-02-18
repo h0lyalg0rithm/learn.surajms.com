@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Week 1 - Spanish For Beginners 1
+categories: spanish course
 ---
 When searching for some online courses to learn spanish, I came across FutureLearn.
 

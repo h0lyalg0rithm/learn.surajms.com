@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 2 Spanish for beginners
+title: Week 2 - Spanish for beginners
 categories: spanish course
 ---
 Week 2 of the course begins with learning to talk about ones nationality, place of origin.
