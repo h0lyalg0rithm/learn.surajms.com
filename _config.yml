@@ -22,7 +22,9 @@ twitter_username: h0lyalg0rithm
 github_username:  h0lyalg0rithm
 permalink: :year/:month/:title.html
 google_analytics: UA-58192420-2
-
+disqus:
+    shortname: learn-surajms
+    
 # Build settings
 markdown: kramdown
 theme: minima
