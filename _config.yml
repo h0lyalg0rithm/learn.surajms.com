@@ -21,6 +21,7 @@ url: "http://learn.surajms.com" # the base hostname & protocol for your site, e.
 twitter_username: h0lyalg0rithm
 github_username:  h0lyalg0rithm
 permalink: :year/:month/:title.html
+google_analytics: UA-58192420-2
 
 # Build settings
 markdown: kramdown
